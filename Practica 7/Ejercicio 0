@@ -1,0 +1,9 @@
+Ejercicio 0
+Hacer primero el ejercicio 4 con el profesor
+Un profesor necesita sumar dos numeros enetero.Se pide crear un programa con el seiguiente menú:
+1-Leer los numeros
+2-Calcular la suma
+3-Mostrar el resultado
+4-Salir
+
+empleando la arquitectura MVC ya conocida
